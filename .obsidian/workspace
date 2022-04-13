@@ -6,10 +6,11 @@
       {
         "id": "fe2133726d4f2c3e",
         "type": "leaf",
+        "dimension": 34.35771358328211,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Design View.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -17,6 +18,7 @@
       {
         "id": "eaa27bdcf6f6b7f6",
         "type": "leaf",
+        "dimension": 65.6422864167179,
         "state": {
           "type": "markdown",
           "state": {
@@ -79,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design View.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,8 +98,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "eaa27bdcf6f6b7f6",
+  "active": "fe2133726d4f2c3e",
   "lastOpenFiles": [
+    "README.md",
+    "Design Thinking/Design thinking.md",
     "Design View.md",
     "Subject View.md",
     "Design Thinking/Modelling the Problem Domain.md",
@@ -105,8 +109,6 @@
     "Web Application Development/Source Code Usability.md",
     "Design Thinking/Prototyping.md",
     "Design Thinking/Understanding Users and Requirements.md",
-    "Interacting with the Backend.md",
-    "Design Thinking/Design methodology.md",
-    "Design Thinking/Usability and Usefulness.md"
+    "Interacting with the Backend.md"
   ]
 }
