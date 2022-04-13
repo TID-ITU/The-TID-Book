@@ -9,8 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Subject View.md",
+            "file": "Design View.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "eaa27bdcf6f6b7f6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Design View.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subject View.md",
+                "file": "Design View.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,17 +96,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "fe2133726d4f2c3e",
+  "active": "eaa27bdcf6f6b7f6",
   "lastOpenFiles": [
-    "Subject View.md",
     "Design View.md",
-    "Interacting with the Backend.md",
+    "Subject View.md",
+    "Design Thinking/Modelling the Problem Domain.md",
     "Design Thinking/Evaluating User Interfaces.md",
+    "Web Application Development/Source Code Usability.md",
+    "Design Thinking/Prototyping.md",
+    "Design Thinking/Understanding Users and Requirements.md",
+    "Interacting with the Backend.md",
     "Design Thinking/Design methodology.md",
-    "Design Thinking/Usability and Usefulness.md",
-    "Web Application Development/Seperation of Concerns.md",
-    "Design Thinking/Design thinking.md",
-    "Design Thinking/Web Design Principles.md",
-    "Web Application Development/Testing and evaluation.md"
+    "Design Thinking/Usability and Usefulness.md"
   ]
 }

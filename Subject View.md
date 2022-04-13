@@ -1,25 +1,22 @@
 ## Introduction to TID
-### [[Design Thinking]]
-### [[Design methodology]]
-### Understanding Users and Requirements
-### Prototyping
+![[Design Thinking]]
+![[Design methodology]]
+![[Understanding Users and Requirements]]
+![[Prototyping]]
 
-## Usability
-### [[Usability and Usefulness]]
-### Source Code Usability
+!Usability
+![[Usability and Usefulness]]
+![[Source Code Usability]]
 
-## Testing
-### Evaluating User Interfaces
-### [[Testing and evaluation]]
+!Testing
+![[Evaluating User Interfaces]]
+![[Testing and evaluation]]
 
 ## Design
-### [[Web Design Principles]]
-### [[Seperation of Concerns]]
+![[Web Design Principles]]
+![[Seperation of Concerns]]
 
 ## Data
-### Modelling the Problem Domain
-### [[Interacting with the Backend]]
-
-
-
+![[Modelling the Problem Domain]]
+![[Interacting with the Backend]]
 
