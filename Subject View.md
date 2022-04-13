@@ -18,7 +18,7 @@
 
 ## Data
 ### Modelling the Problem Domain
-### [[Interaction with the Backend]]
+### [[Interacting with the Backend]]
 
 
 
