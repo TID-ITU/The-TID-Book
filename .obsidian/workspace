@@ -6,24 +6,11 @@
       {
         "id": "fe2133726d4f2c3e",
         "type": "leaf",
-        "dimension": 34.35771358328211,
         "state": {
           "type": "markdown",
           "state": {
             "file": "README.md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "eaa27bdcf6f6b7f6",
-        "type": "leaf",
-        "dimension": 65.6422864167179,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Design View.md",
-            "mode": "preview"
           }
         }
       }
@@ -101,8 +88,8 @@
   "active": "fe2133726d4f2c3e",
   "lastOpenFiles": [
     "README.md",
-    "Design Thinking/Design thinking.md",
     "Design View.md",
+    "Design Thinking/Design thinking.md",
     "Subject View.md",
     "Design Thinking/Modelling the Problem Domain.md",
     "Design Thinking/Evaluating User Interfaces.md",

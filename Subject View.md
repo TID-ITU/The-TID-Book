@@ -1,6 +1,6 @@
 ## Introduction to TID
 ![[Design Thinking]]
-![[Design methodology]]
+![[Design methodologies]]
 ![[Understanding Users and Requirements]]
 ![[Prototyping]]
 
