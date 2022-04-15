@@ -96,6 +96,24 @@ Methodology used in the **test** step:
 
 ### Understanding Users and Requirements
 
+### Important Web Design Principles
+**Mental models**
+
+**Affordances**
+
+**Signifiers**
+
+<span style="color:red">TODO: Mention false signifiers (Zeeguu menu items clickability).</span>.
+
+**Constraints**
+
+**Feedback**
+
+**Hick’s Law**
+
+**Jakob’s Law**
+
+
 ### Usability and Usefulness
 
 ### Prototyping
