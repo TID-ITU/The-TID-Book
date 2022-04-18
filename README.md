@@ -115,9 +115,11 @@ The following concepts have three purposes:
 #### Affordances, Signifiers, and Constraints
 **Affordances**
 
-An affordance is simply put anything that makes an action available. The commonly used example is that of sitting on a chair. The chair is designed in such a way that a person can sit on it. It is important to understand that an affordance is a relationship between one entity and another. A chair that can support a child but not an adult, affords sitting to the child but not the adult. This is important in relation to the first **Design Thinking principle** and the first **Design Thinking process step**. Another important thing to understand about the concept of affordances is that in principle, a window sill, a coffee table, or a bucket up-side-down has approximatly the same affordance: You can sit on them. An affordance is not nececarily linked to the original intention, however, in the world of digital design this is rarely a concern. As all behaviour has to be defined from scratch, sometimes a digital design does less than it was supposed to, but rarely more. The "Login" button on your favourite streaming service affords you logging in so you can binge, but unlike the bucket, it is unlikely to be used a drum.
+An affordance is simply put anything that means an action is available. The commonly used example is that of sitting on a chair. The chair is designed in such a way that a person can sit on it - it affords "sitting on it". It is important to understand that an affordance is a relationship between one entity and another. A chair that can support a child but not an adult, affords sitting to the child but not the adult. This is important in relation to the first **Design Thinking** principle (human-centered) and process step (empathise). Another important thing to understand about the concept of affordances is that in principle, a window sill, a coffee table, or a bucket up-side-down has approximatly the same affordance: You can sit on them. An affordance is not nececarily linked to the original intention, however, in the world of digital design this is rarely a concern. As all behaviour has to be defined from scratch, sometimes a digital design does less than it was supposed to, but rarely more. The entire screen on your smartphone affords a "touch" action. On the same screen, the "Login" button on your favourite streaming service affords you logging in so you can binge, but unlike the bucket, and possibly the touch screen, it is unlikely to be used a drum.
 
-<strong style="color:red">TODO: Anti-affordances</strong>.
+**Anti-affordances**
+
+As an **affordance** is available actionability, an anti-affordance is the opposite. Actionability made unavailable. A roadblock, a bike lock, a disabled button, or an overlay that blocks the user from interacting with the news website unless they buy a monthly subscription. Anti-affordances are equally important to pay attention to, and to use conciously to guide the user to where they need to go.
 
 The relevence of thinking about a design in terms of affordances comes as we turn to the concept of **signifiers**.
 
@@ -131,14 +133,21 @@ A signifier is a cue of any kind, telling the user that they can *do something* 
 
 Turning to the digital, the colour contrast of a button **signifies** actionability. There may even be an animation when you point your mouse over the button to help making this point across. The designers job is to make sure that each affordance has the appropriate signifier. An afforance with a bad signifier will not be used.
 
-This leads us the important concept of *false signifiers*. It is possible, indeed common, for designers to introduce signifiers that are not perfectly aligned with their affordances. Reusing the subject of buttons, if a text block has a different background colour, this may be mistaken for a button. Similarily, if a link item has a different background colour, but only has the text clickable people will try to click outside of the text, as they see the text and background colour as the same item - false signifier. False signifiers will cause at best temporary confusion, at worst users leaving in frustration.
+This leads us the important concept of *false signifiers*. It is possible, indeed common, for designers to introduce signifiers that are not perfectly aligned with their affordances. Reusing the subject of buttons, if a text block has a different background colour, this may be mistaken for a button. Similarily, if a link item has a different background colour, but only has the text clickable people will try to click outside of the text, as they see the text and background colour as the same item - false signifier. False signifiers will cause at best temporary confusion, at worst users leaving in frustration. Note that false signifiers can also be intentional. This is common in the real world - think about any stop sign that does not actually provide a physical barrier, but rarely found in the digital world.
 
 <strong style="color:red">TODO: Zeeguu menu items clickability.</strong>.
 
 <strong style="color:red">TODO: Link to list of affordance/signifier examples.</strong>.
 
+**Mapping**
+
+The concept of mapping is about making **signifiers** fit **affordances** according to a user's **Conceptual Model**. To move something up, you move the controls up, or push the up-key on a keyboard. To turn on the lights in the right side of the auditorium, you flip the right light switch. These are examples of design using natural mapping. In contrast we have cultural (or learned) mapping. As a good example, take the instruments in a car. When the wheel is turned to the right, the car steers to the right, when turned to the left, the car steers to the left. However, when either the gas or the break pedal is pressed downwards, the car does not go down. In fact the instruments for making the car speed up or slow down are almost identical, save for their position. Yet experienced drivers do not have to think about which pedal to press. They have learned that left means "slow down" and right means "speed up".
+
+<strong style="color:red">TODO: Link to list of mapping examples.</strong>.
+
 **Constraints**
-Where 
+
+Where **signifiers** cue the user to an affordance, a constraint cues the user to an anti-affordance.
 
 Turning to the digital you can think disabled buttons, 🚫-shaped cursors, etc.
 
