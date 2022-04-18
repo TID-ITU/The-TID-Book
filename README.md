@@ -104,15 +104,22 @@ Methodology used in the **test** step:
 
 ### Understanding Users and Requirements
 
-#### Mental models
-
 ### Important Interaction Design Concepts
+The following concepts have three purposes:
+1. They help interaction designers develop a mental model of concept of *Interaction Design*.
+2. They provide a shared vocabulary for communication between interaction designers.
+3. They can be used activly as mental tools in the design process.
 
+#### Conceptual Models
 
 #### Affordances, Signifiers, and Constraints
 **Affordances**
 
-An affordance is simply put anything that makes an action available. The commonly used example is that of sitting in a chair. The chair is designed in such a way that a person can sit on it. The important thing to understand about the concept of affordances is that in principle, a window sill, a coffee table, or a bucket up-side-down has approximatly the same affordance: You can sit on them. An affordance is not nececarily linked to the original intention, however, in the world of digital design this is rarely a concern. As all behaviour has to be defined from scratch, sometimes a digital design does less than it was supposed to, but rarely more. The "Login" button on your favourite streaming service affords you logging in so you can binge, but unlike the bucket, it is unlikely to be used a drum. The importance of thinking about a design in terms of affordances comes as we turn to the concept of **signifiers**
+An affordance is simply put anything that makes an action available. The commonly used example is that of sitting on a chair. The chair is designed in such a way that a person can sit on it. It is important to understand that an affordance is a relationship between one entity and another. A chair that can support a child but not an adult, affords sitting to the child but not the adult. This is important in relation to the first **Design Thinking principle** and the first **Design Thinking process step**. Another important thing to understand about the concept of affordances is that in principle, a window sill, a coffee table, or a bucket up-side-down has approximatly the same affordance: You can sit on them. An affordance is not nececarily linked to the original intention, however, in the world of digital design this is rarely a concern. As all behaviour has to be defined from scratch, sometimes a digital design does less than it was supposed to, but rarely more. The "Login" button on your favourite streaming service affords you logging in so you can binge, but unlike the bucket, it is unlikely to be used a drum.
+
+<strong style="color:red">TODO: Anti-affordances</strong>.
+
+The relevence of thinking about a design in terms of affordances comes as we turn to the concept of **signifiers**.
 
 **Signifiers**
 
@@ -131,7 +138,13 @@ This leads us the important concept of *false signifiers*. It is possible, indee
 <strong style="color:red">TODO: Link to list of affordance/signifier examples.</strong>.
 
 **Constraints**
-As a **signifier** tells the user "here is something you can do"
+Where 
+
+Turning to the digital you can think disabled buttons, 🚫-shaped cursors, etc.
+
+Just like **signifiers**, false constraints also exist. 
+
+
 <strong style="color:red">TODO: False constraints.</strong>.
 
 
