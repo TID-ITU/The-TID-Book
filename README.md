@@ -50,6 +50,7 @@ Interviews
 Observation
 
 Empathy Maps
+https://www.nngroup.com/articles/empathy-mapping/
 
 Personas
 
