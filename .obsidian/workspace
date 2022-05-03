@@ -10,7 +10,8 @@
           "type": "markdown",
           "state": {
             "file": "README.md",
-            "mode": "source"
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -89,6 +90,7 @@
   "active": "fe2133726d4f2c3e",
   "lastOpenFiles": [
     "README.md",
+    "Data model model.png",
     "Materials Looking For a Home/Problematic UI Examples.md",
     "Materials Looking For a Home/Problematic_UI_Example_1.png",
     "Untitled.md",
@@ -96,7 +98,6 @@
     "Design Thinking/Design thinking.md",
     "Subject View.md",
     "Design Thinking/Modelling the Problem Domain.md",
-    "Design Thinking/Evaluating User Interfaces.md",
-    "Web Application Development/Source Code Usability.md"
+    "Design Thinking/Evaluating User Interfaces.md"
   ]
 }
